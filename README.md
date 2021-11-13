@@ -1,6 +1,6 @@
 # Pulse Oximeter
 
-## Introduction<img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_0.jpg" width = 25% height = 25% div align=right />
+## Introduction<img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_0.jpg" width = 20% height = 20% div align=right />
 
 This project has built a complete set of **Wearable Continuous Pulse Oximeter** based on **PPG**(*Photoplethysmography*), and completed the development of corresponding mobile App. Its basic functions include signal acquisition, Bluetooth transmission, SpO2 calculation and real-time display.
 
