@@ -1,0 +1,32 @@
+version 3.7
+蓝牙回传功能
+修改oled
+修改传感器参数
+
+version 3.6
+蓝牙传输有特定的开始和终止字符串
+
+version 3.44
+新增加速度传感器和OLED
+
+version 3.4
+选用SpO2模式，LED分时打开。
+获取加速度信息，向量合成，单位mg。填补绿光数据的缺口
+
+version 3.3.1
+优化蓝牙丢包
+
+version 3.3
+实际测试使用，需根据测试条件在max30102.c文件中改三个灯的电流大小
+
+version 3.2
+实现三个LED同时测量，优化代码组织结构
+
+version 3.0
+完成数据传输功能
+
+version 2.0
+把传感器的功能加入到ble程序架构中，目前已编译通过，可能依旧存在许多未知问题
+项目中没有arm5的pack就用的arm4不知道会不会出错
+项目路径
+BleOxgen\examples\ble_peripheral\ble_app_uart\pca10040\s132\arm4

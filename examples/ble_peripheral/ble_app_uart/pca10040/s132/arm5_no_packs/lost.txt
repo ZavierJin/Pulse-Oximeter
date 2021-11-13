@@ -1,0 +1,4 @@
+sd_check_ram_start
+softdevice_ble_evt_handler_set
+softdevice_enable
+softdevice_enable_get_default_conifg
