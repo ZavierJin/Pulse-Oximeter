@@ -2,9 +2,9 @@
 
 ## Introduction<img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_0.jpg" width = 20% height = 20% div align=right />
 
-This project has built a complete set of **Wearable Continuous Pulse Oximeter** based on **PPG**(*Photoplethysmography*), and completed the development of corresponding mobile App. Its basic functions include signal acquisition, Bluetooth transmission, SpO2 calculation and real-time display.
+This project built a complete set of **Wearable Continuous Pulse Oximeter** based on **PPG**(*Photoplethysmography*), and completed the development of corresponding mobile App. Its basic functions include signal acquisition, Bluetooth transmission, SpO2 calculation and real-time display.
 
-The content in the repository is the code of the **hardware part** of the project. 
+The content in the repository is the code of the **hardware part**. 
 
 See this link for the code of mobile app: https://gitee.com/zzhcng/BloodOxygenCheck
 
@@ -29,6 +29,8 @@ In the calculation of blood oxygen value, the local peak valley method, spectrum
 In the experiment, **12 subjects** were selected and **221 groups of effective data** were obtained.
 
 At the same time, **Bland–Altman Plot** is used to evaluate the consistency between the experimental algorithm and the calibrated oximeter. The data within the boundary accounts for **95.57%**, indicating good consistency.
+
+Here are the experimental photos.
 
 <img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_7.jpg" width = 47% height = 47% /><img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_8.jpg" width = 17% height = 17% /><img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_9.jpg" width = 17% height = 17% /><img src="https://github.com/ZavierJin/Pulse-Oximeter/blob/main/figure/figure_10.jpg" width = 17% height = 17% />
 
